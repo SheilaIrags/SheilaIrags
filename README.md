@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Sheila John
+#### Data Analyst
+![Data Analyst](file:///Users/sheila/Downloads/Sheila%20The%20Analyst.png)
 
-I'm Sheila and I am a Data Analyst. In 2021 I started the process of transitioning to from Operation Engineering to Data Analytics. I enjoy rummaging through and cleaning data. I also enjoy creating data visualizations and have a flair for dashboards. You can check out my Tableau Public at https://public.tableau.com/app/profile/sheila.john3044
+I'm Sheila, a Data Analyst. The entirety of Data Analytics interests me. I really enjoy creating data visualisations and story telling. 
 
-[![Sheila's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheilaIrags)](https://github.com/SheilaIrags/github-readme-stats)
+Skills: SPREADSHEETS / SQL / TABLEAU 
+
+- 🌱 I’m currently learning Python for Data Analysis 
+- 📫 How to reach me: ibierejohn@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SheilaIrags)  
+
