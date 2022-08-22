@@ -12,6 +12,7 @@ I am fascinated by the entirety of Data Analytics and really enjoy creating data
 - SPREADSHEETS 
 - SQL 
 - TABLEAU 
+- PYTHON
 
 
 *📫 How to reach me: ibierejohn@gmail.com*
