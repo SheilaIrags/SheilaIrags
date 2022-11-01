@@ -1,25 +1,21 @@
 
-![Header](./[https://media-exp1.licdn.com/dms/image/D4D16AQE3na4FRwgZXw/profile-displaybackgroundimage-shrink_350_1400/0/1665446768207?e=1672876800&v=beta&t=0ybsqOCiPpwHQoxwsvdpxlomFr8iP98JnUAiBKGK6Kw]) 
+### **Hi there 👋🏽**  
+##### *Welcome to the right analyst for your job*
+![The right analyst for your job.](https://media-exp1.licdn.com/dms/image/D4D16AQE3na4FRwgZXw/profile-displaybackgroundimage-shrink_350_1400/0/1665446768207?e=1672876800&v=beta&t=0ybsqOCiPpwHQoxwsvdpxlomFr8iP98JnUAiBKGK6Kw)
 
-![*Data Analyst*](https://media-exp1.licdn.com/dms/image/C4D16AQHeOwlXMlwHGw/profile-displaybackgroundimage-shrink_350_1400/0/1658530368620?e=1663804800&v=beta&t=wbvLmYH7dCSPtje_sMNnsMnpgQka_l0TRIp5Id-Rn_I)
+My name is Sheila John, an Analyst skilled in drawing insights from data. 
+I am fascinated by the entirety of Data Analytics and really enjoy creating reports & story telling with visualisations. 
 
-# Hi there 👋🏽 I'm Sheila  
-#### *Data Analyst*
-
-My name is Sheila John, a former Operations Engineer, now, Data Analyst. 
-I am fascinated by the entirety of Data Analytics and really enjoy creating data visualisations & story telling. 
-
-## Skills 
-
+Skills:  
 - SPREADSHEETS 
-- SQL 
 - TABLEAU 
 - PYTHON
+- SQL  
 
 
-*📫 How to reach me: ibierejohn@gmail.com*
+📫 How to reach me: ibierejohn@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SheilaIrags)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sheila_john/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sheelarjawn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/sheila.john3044)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sheilairags)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sheila-john//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sheilairags.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/sheila.john3044)  
 
 
