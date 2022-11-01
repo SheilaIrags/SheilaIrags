@@ -1,4 +1,6 @@
 
+[*Data Analyst*](https://media-exp1.licdn.com/dms/image/C4D16AQHeOwlXMlwHGw/profile-displaybackgroundimage-shrink_350_1400/0/1658530368620?e=1663804800&v=beta&t=wbvLmYH7dCSPtje_sMNnsMnpgQka_l0TRIp5Id-Rn_I)
+
 ![*Data Analyst*](https://media-exp1.licdn.com/dms/image/C4D16AQHeOwlXMlwHGw/profile-displaybackgroundimage-shrink_350_1400/0/1658530368620?e=1663804800&v=beta&t=wbvLmYH7dCSPtje_sMNnsMnpgQka_l0TRIp5Id-Rn_I)
 
 # Hi there 👋🏽 I'm Sheila  
