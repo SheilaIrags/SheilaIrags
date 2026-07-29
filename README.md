@@ -24,7 +24,7 @@ I'm particularly interested in:
 ### What I'm Building
 
 * **RotaChief** – An AI-powered workforce scheduling platform that automates rota generation, attendance tracking, and workforce management.
-* Automation workflows that integrate AI models, APIs, and business applications to streamline operations.
+* Automation workflows that integrate AI models, APIs, and business applications to streamline operations. Check it out here: www.rotachief.com
 
 I'm always interested in learning, building, and collaborating on projects that solve real-world operational challenges through automation and AI.
 
